@@ -1,7 +1,6 @@
 # Customer Integration Validator
 
-**Live demo:** _[add your Streamlit Community Cloud URL here once deployed]_
-**Repo:** _[this repo's GitHub URL]_
+
 
 A working implementation-review tool that validates, cleans, and transforms customer
 records before they're imported from a source SaaS system into a destination system —
